@@ -24,7 +24,7 @@ Forked plugins
                 :color
             change scheme:
                 :colorscheme peaksea
-    +set_tabline - customized tab line. Sets the tab title, including tab number
+    +set_tabline - customized tab line. Sets the tab title, including tab number  
     +vim-irblack-forked - a version of Infinite Red's vim theme; see README
                 :colorscheme ir_black
     +vim-peepopen - fuzzy search of filenames and paths in a project; not sure how to use this yet
