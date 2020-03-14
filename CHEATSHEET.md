@@ -30,7 +30,6 @@ Forked plugins
     +vim-peepopen - fuzzy search of filenames and paths in a project; not sure how to use this yet
 
 
-
 MRU
 NERDtree
 
